@@ -50,7 +50,6 @@ class Song
     end
       artists_hash
   end 
-
 end
 
 # song1 = Song.new("Tangled", "Bob Dylan", "Folk")
